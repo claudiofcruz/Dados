@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dados</string>
+    <string name="player">Jogador</string>
+    <string name="computer">Computador</string>
+    <string name="btnJogar">Jogar</string>
+    <string name="msgJogadorWin">Jogador Ganhou!!</string>
+    <string name="msgComputerWin">Computador Ganhou!!</string>
+    <string name="msgEmpate">Empate!!!!</string>
+</resources>
